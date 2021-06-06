@@ -1,19 +1,44 @@
 
 
-#first {color:red}
-#second {color:blue}
-#third {color: green}
-#fourth {font-size: 28px}
-#fifth {font-size: 10px}
-#sixth {text-align: center;}
-#seventh {font-weight: bold;}
-#eighth {font-family: Arial;}
-#ninth {font-size: 28px; color: orange; font-weight: bold;}
-#styledImage {border: 6px solid orange;}
+#first {
+    color:red
+}
+#second {
+    color:blue
+}
+#third {
+    color: green
+}
+#fourth {
+    font-size: 28px
+}
+#fifth {
+    font-size: 10px
+}
+#sixth {
+    text-align: center;
+}
+#seventh {
+    font-weight: bold;
+}
+#eighth {
+    font-family: Arial;
+}
+#ninth {
+    font-size: 28px; 
+    color: orange; 
+    font-weight: bold;
+}
+#styledImage {
+    border: 6px solid orange;
+}
+
 .styledFont {
     color: green;
     font-family: fantasy;
-    font-weight: lighter;
+    font-variant: small-caps;
 }
 
-
+body {
+    background-color: azure;
+}
